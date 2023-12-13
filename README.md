@@ -33,7 +33,7 @@ Visit Transverse: [https://transverse.onrender.com/](https://transverse.onrender
    - Install the required packages using `pip install streamlit googletrans==4.0.0-rc1`.
 
 2. **Run the Application:**
-   - Execute the script using `streamlit run your_script_name.py` in the terminal.
+   - Execute the script using `streamlit run app.py` in the terminal.
 
 3. **Use the Web App:**
    - Open the provided URL in your web browser to access the Transverse web application.
